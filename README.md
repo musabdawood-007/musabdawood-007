@@ -1,9 +1,8 @@
-<!-- Animated header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:a371f7&height=220&section=header&text=Musab%20Dawood&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20WPF%20Desktop%20%7C%20Next.js%20Web%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=20" alt="Header" />
 </p>
 
-<!-- Animated typing lines -->
 <p align="center">
   <a href="https://musab-007.netlify.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=640&height=50&lines=Full+Stack+Software+Engineer;Desktop+Apps+with+.NET+%7C+C%23+%7C+WPF;Web+Apps+with+Next.js+%7C+React+%7C+TypeScript;Building+fast%2C+clean+and+scalable+apps" alt="Typing animation" />
@@ -11,8 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musabdawood-007&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/musabdawood-007?style=for-the-badge&logo=github&color=a371f7" alt="Followers" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=musabdawood-007&label=Profile%20Views&labelColor=%230d1117&countColor=%23238636&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -116,7 +114,7 @@ public class MusabDawood : IFullStackDeveloper
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=musabdawood-007&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/2ea043/musabdawood-007" alt="GitHub contribution graph" />
 </p>
 
 ---
@@ -129,12 +127,6 @@ public class MusabDawood : IFullStackDeveloper
   <a href="https://www.instagram.com/developer_oo9" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://musab-007.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:musabdaud007@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-## 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 <!-- Animated footer -->
