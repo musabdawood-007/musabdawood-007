@@ -1,15 +1,14 @@
-
+<!-- Animated header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:a371f7&height=220&section=header&text=Musab%20Dawood&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20WPF%20Desktop%20%7C%20Next.js%20Web%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=20" alt="Header" />
 </p>
 
+<!-- Animated typing lines -->
 <p align="center">
   <a href="https://musab-007.netlify.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=640&height=50&lines=Full+Stack+Software+Engineer;Desktop+Apps+with+.NET+%7C+C%23+%7C+WPF;Web+Apps+with+Next.js+%7C+React+%7C+TypeScript;Building+fast%2C+clean+and+scalable+apps" alt="Typing animation" />
   </a>
 </p>
----
-
 ## 🚀 About Me
 
 ```csharp
@@ -89,6 +88,9 @@ public class MusabDawood : IFullStackDeveloper
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Community" />
+  <img src="https://img.shields.io/badge/SSMS%2022-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSMS 22" />
+  <img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="OpenCode" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </p>
