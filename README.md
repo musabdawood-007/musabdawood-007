@@ -5,17 +5,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=460&height=44&lines=Full%20Stack%20Software%20Engineer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3fb950&center=true&vCenter=true&width=460&height=44&lines=Full%20Stack%20Software%20Engineer;Next.js+%26+.NET+Developer;Open+Source+Contributor" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Next.js Projects**  
-🌱 &nbsp;I'm currently learning **about different Framework About Software Development**  
-👯 &nbsp;I'm looking to collaborate on **open-source Developer Tools**  
-💬 &nbsp;Ask me about **Full stack Software Development**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I can learn and build very fast**
+```bash
+$ whoami
+> Musab Dawood | Full Stack Software Engineer
+
+$ cat current_focus.txt
+ Currently working on: Next.js Projects
+ Currently learning: Advanced Frameworks & System Design
+ Looking to collaborate on: Open-source Developer Tools
+💬 Ask me about: Full Stack Development, .NET, React
+⚡ Fun fact: I can learn and build very fast
+
+$ echo $PRONOUNS
+he/him
 
 ### 🛠️ Tech Stack
 
