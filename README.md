@@ -1,12 +1,12 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:a371f7&height=220&section=header&text=Musab%20Dawood&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20%7C%20Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:a371f7&height=220&section=header&text=Musab%20Dawood&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20WPF%20Desktop%20%7C%20Next.js%20Web%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=20" alt="Header" />
 </p>
 
 <!-- Animated typing lines -->
 <p align="center">
   <a href="https://musab-007.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=640&height=50&lines=Full+Stack+Software+Engineer;ASP.NET+Core+%7C+C%23+%7C+SQL;Next.js+%7C+React+%7C+TypeScript;Building+fast%2C+clean+and+scalable+apps" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=640&height=50&lines=Full+Stack+Software+Engineer;Desktop+Apps+with+.NET+%7C+C%23+%7C+WPF;Web+Apps+with+Next.js+%7C+React+%7C+TypeScript;Building+fast%2C+clean+and+scalable+apps" alt="Typing animation" />
   </a>
 </p>
 
@@ -23,8 +23,8 @@
 public class MusabDawood : IFullStackDeveloper
 {
     public string Role        => "Full Stack Software Engineer";
-    public string[] Backend   => new[] { "C#", ".NET", "ASP.NET Core", "Node.js", "Python" };
-    public string[] Frontend  => new[] { "React", "Next.js", "TypeScript", "Tailwind CSS" };
+    public string[] Desktop   => new[] { "C#", ".NET", "WPF", "XAML", "MVVM" };
+    public string[] Web       => new[] { "Next.js", "React", "TypeScript", "Node.js", "Tailwind CSS" };
     public string[] Databases => new[] { "SQL", "MongoDB", "SQLite" };
 
     public string CurrentlyBuilding => "Next.js projects";
@@ -37,7 +37,9 @@ public class MusabDawood : IFullStackDeveloper
 - 🔭 Currently working on **Next.js projects**
 - 🌱 Learning **modern frameworks and software architecture**
 - 👯 Looking to collaborate on **open-source developer tools**
-- 💬 Ask me about **.NET and Full Stack development**
+- 🖥️ I build **desktop apps** with **.NET, C# and WPF**
+- 🌐 I build **web apps** with **Next.js**
+- 💬 Ask me about **.NET desktop and Full Stack development**
 - 😄 Pronouns: **he/him**
 
 ---
@@ -56,16 +58,18 @@ public class MusabDawood : IFullStackDeveloper
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Backend**
+**Desktop Development**
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/XAML-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" alt="XAML" />
 </p>
 
-**Frontend**
+**Web Development**
 
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
