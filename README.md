@@ -9,6 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=640&height=50&lines=Full+Stack+Software+Engineer;Desktop+Apps+with+.NET+%7C+C%23+%7C+WPF;Web+Apps+with+Next.js+%7C+React+%7C+TypeScript;Building+fast%2C+clean+and+scalable+apps" alt="Typing animation" />
   </a>
 </p>
+
 ## 🚀 About Me
 
 ```csharp
